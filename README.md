@@ -300,3 +300,7 @@ This decouples consuming projects from deployment role naming decisions and enab
 **Issue**: Lessons learned weren't captured during development.
 **Solution**: Added this comprehensive lessons learned section covering all major challenges encountered.
 **Lesson**: Document lessons learned immediately while context is fresh - they're invaluable for future projects.
+
+## Project Tags
+
+`#aws` `#terraform` `#iam` `#deployment-roles` `#github-actions` `#oidc` `#ssm` `#parameter-store` `#multi-region` `#iac` `#infrastructure` `#cicd` `#devops` `#security` `#rbac` `#role-management` `#policy-evolution` `#orphan-detection` `#ai-assisted` `#ai-generated` `#llm-assisted` `#ai-pair-programming` `#agentic-ai` `#ai-infrastructure` `#ai-devops`
