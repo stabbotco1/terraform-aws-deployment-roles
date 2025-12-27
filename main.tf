@@ -69,7 +69,7 @@ module "standard_tags" {
   project       = local.git_project_name
   repository    = local.git_repository
   environment   = each.value.environment
-  owner         = "Platform Team"
+  owner         = "StephenAbbot"
   deployed_by   = data.aws_caller_identity.current.arn
   managed_by    = "OpenTofu"
   deployment_id = "Default"

@@ -16,7 +16,7 @@ variable "environment" {
 variable "owner" {
   description = "Resource owner"
   type        = string
-  default     = "Platform Team"
+  default     = "StephenAbbot"
 }
 
 variable "deployed_by" {
