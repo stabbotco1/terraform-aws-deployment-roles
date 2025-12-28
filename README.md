@@ -64,7 +64,7 @@ Basic deployment workflow:
 ./scripts/list-deployed-resources.sh
 ```
 
-See [prerequisites documentation](docs/prerequisites.md) for detailed requirements, [troubleshooting guide](docs/troubleshooting.md) for common issues, [architecture documentation](docs/architecture.md) for system design and integration patterns, and [tagging documentation](docs/tags.md) for resource tagging strategy and cost allocation.
+See [prerequisites documentation](https://github.com/stephenabbot/foundation-iam-deploy-roles/blob/main/docs/prerequisites.md) for detailed requirements, [troubleshooting guide](https://github.com/stephenabbot/foundation-iam-deploy-roles/blob/main/docs/troubleshooting.md) for common issues, [architecture documentation](https://github.com/stephenabbot/foundation-iam-deploy-roles/blob/main/docs/architecture.md) for system design and integration patterns, and [tagging documentation](https://github.com/stephenabbot/foundation-iam-deploy-roles/blob/main/docs/tags.md) for resource tagging strategy and cost allocation.
 
 ## AWS Well-Architected Framework
 
